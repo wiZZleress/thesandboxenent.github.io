@@ -1,0 +1,79 @@
+.earnlogo-3 {
+    position: absolute;
+    left: auto;
+    top: 6%;
+    right: -10%;
+    bottom: auto;
+    z-index: auto;
+    -webkit-box-ordinal-group: 2;
+    -webkit-order: 1;
+    -ms-flex-order: 1;
+    order: 1;
+    opacity: .8;
+    -webkit-filter: blur(7px);
+    filter: blur(7px);
+    -webkit-transform: rotate(-37deg);
+    -ms-transform: rotate(-37deg);
+    transform: rotate(-37deg);
+}
+.logo1{
+    padding-top: 20%;
+}
+.earn-logo1 {
+    position: absolute;
+    left: auto;
+    top: 20%;
+    right: 13%;
+    bottom: auto;
+    -webkit-transform: rotate(32deg);
+    -ms-transform: rotate(32deg);
+    transform: rotate(32deg);
+}
+.earn-logo4 {
+    position: absolute;
+    left: auto;
+    top: 1%;
+    right: 100%;
+    bottom: auto;
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
+    -webkit-transform: rotate(-50deg);
+    -ms-transform: rotate(-50deg);
+    transform: rotate(-50deg);
+}
+.earn-logo5 {
+    position: absolute;
+    left: auto;
+    top: 10%;
+    right:70%;
+    bottom: -10%;
+    -webkit-filter: blur(1px);
+    filter: blur(1px);
+    -webkit-transform: rotate(91deg);
+    -ms-transform: rotate(91deg);
+    transform: rotate(91deg);
+}
+.earn-logo2 {
+    position: absolute;
+    left: auto;
+    top: auto;
+    right: 13%;
+    bottom: 22%;
+    -webkit-transform: rotate(40deg);
+    -ms-transform: rotate(40deg);
+    transform: rotate(40deg);
+}
+
+.top__bg2 {
+    opacity: 0.2;
+}
+.ches {
+    height: 300px;
+ padding-left: 25%;
+}
+.imgflip{
+    -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  width: 70%;
+  padding-bottom: 35%;
+}
